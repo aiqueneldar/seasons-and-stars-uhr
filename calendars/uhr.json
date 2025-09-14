@@ -9,7 +9,7 @@
   },
   "worldTime": {
     "interpretation": "epoch-based",
-    "epochYear": 4181,
+    "epochYear": 2700,
     "currentYear": 4725
   },
   "leapYear": {
@@ -20,7 +20,7 @@
     "currentYear": 544,
     "prefix": "",
     "suffix": " MT",
-    "startDay": 1
+    "startDay": 3
   },
   "months": [
     {
