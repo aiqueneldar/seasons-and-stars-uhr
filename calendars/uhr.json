@@ -9,8 +9,8 @@
   },
   "worldTime": {
     "interpretation": "epoch-based",
-    "epochYear": 0,
-    "currentYear": 544
+    "epochYear": 4181,
+    "currentYear": 4725
   },
   "leapYear": {
     "rule": "none"
@@ -18,9 +18,9 @@
   "year": {
     "epoch": 0,
     "currentYear": 544,
-    "prefix": "Year ",
-    "suffix": " of Modern Time era",
-    "startDay": 0
+    "prefix": "",
+    "suffix": " MT",
+    "startDay": 1
   },
   "months": [
     {
