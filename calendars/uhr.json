@@ -7,6 +7,11 @@
       "setting": "World of Zothán"
     }
   },
+  "worldTime": {
+    "interpretation": "epoch-based",
+    "epochYear": 4181,
+    "currentYear": 4725
+  },
   "leapYear": {
     "rule": "none"
   },
@@ -80,6 +85,9 @@
       "abbreviation": "6th"
     }
   ],
+  "intercalary": [],
+  "moons": [],
+  "seasons": [],
   "time": {
     "hoursInDay": 24,
     "minutesInHour": 60,
