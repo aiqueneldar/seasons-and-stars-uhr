@@ -7,11 +7,6 @@
       "setting": "World of Zothán"
     }
   },
-  "worldTime": {
-    "interpretation": "epoch-based",
-    "epochYear": 4181,
-    "currentYear": 4725
-  },
   "leapYear": {
     "rule": "none"
   },
