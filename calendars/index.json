@@ -1,0 +1,10 @@
+{
+  "name": "Calendar of the Uhr",
+  "description": "The calendar of the Uhr - a tri-lunar calendar",
+  "version": "1.0.0",
+  "author": "Aiquen",
+  "calendars": [
+    "uhr.json"
+  ],
+  "tags": ["fantasy", "homebrew", "lunar", "uhr"]
+}

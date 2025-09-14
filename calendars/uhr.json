@@ -1,0 +1,82 @@
+{
+  "id": "calendar-of-the-uhr",
+  "translations": {
+    "en": {
+      "label": "Calendar of the Uhr",
+      "description": "The tri lunar calendar of the Uhr",
+      "setting": "World of Zothán"
+    }
+  },
+  "year": {
+    "epoch": 0,
+    "currentYear": 544,
+    "prefix": "Year ",
+    "suffix": " of Modern Time era",
+    "startDay": 0
+  },
+  "months": [
+    {
+      "id": "winterwane",
+      "name": "Winterwane",
+      "days": 48
+    },
+    {
+      "id": "everbloom",
+      "name": "Everbloom",
+      "days": 48
+    },
+    {
+      "id": "sunfire",
+      "name": "Sunfire",
+      "days": 48
+    },
+    {
+      "id": "goldenharvest",
+      "name": "Goldenharvest",
+      "days": 48
+    },
+    {
+      "id": "emberleaf",
+      "name": "Emberleaf",
+      "days": 48
+    },
+    {
+      "id": "frostheart",
+      "name": "Frostheart",
+      "days": 48
+    },
+    {
+      "id": "closingtide",
+      "name": "Closingtide",
+      "days": 48
+    }
+  ],
+  "weekdays": [
+    {
+      "id": "firstday",
+      "name": "First day"
+    },
+    {
+      "id": "secondday",
+      "name": "Second day"
+    },
+    {
+      "id": "thirdday",
+      "name": "Third day"
+    },
+    {
+      "id": "forthday",
+      "name": "Forth day"
+    },
+    {
+      "id": "fifhtday",
+      "name": "Fifth day"
+    },
+    {
+      "id": "sixthday",
+      "name": "Sixth day"
+    }
+  ],
+  "tags": ["fantasy", "homebrew", "lunar", "uhr"],
+  "preview": "39th of Everbloom, 544 of Modern Time era"
+}

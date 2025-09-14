@@ -1,0 +1,17 @@
+{
+  "id": "seasons-and-stars-uhr",
+  "title": "Calendar of the Uhr",
+  "description": "Fantasy calendar based on 3 lunar cycles",
+  "version": "1.0.0",
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+        "compatibility": {
+          "minimum": "0.7.0"
+        }
+      }
+    ]
+  }
+}
