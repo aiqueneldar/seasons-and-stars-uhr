@@ -1,8 +1,8 @@
 {
-  "name": "Calendar of the Uhr",
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Calendar of the Uhr Pack",
   "description": "The calendar of the Uhr - a tri-lunar calendar",
   "version": "1.0.0",
-  "author": "Aiquen",
   "calendars": [
     {
       "id": "calendar-of-uhr",

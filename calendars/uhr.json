@@ -14,48 +14,38 @@
     "suffix": " of Modern Time era",
     "startDay": 0
   },
-  "leapYear": {
-    "rule": "none"
-  },
   "months": [
     {
-      "id": "winterwane",
       "name": "Winterwane",
       "days": 48,
       "abbreviation": "WW"
     },
     {
-      "id": "everbloom",
       "name": "Everbloom",
       "days": 48,
       "abbreviation": "EB"
     },
     {
-      "id": "sunfire",
       "name": "Sunfire",
       "days": 48,
       "abbreviation": "SF"
     },
     {
-      "id": "goldenharvest",
       "name": "Goldenharvest",
       "days": 48,
       "abbreviation": "GH"
     },
     {
-      "id": "emberleaf",
       "name": "Emberleaf",
       "days": 48,
       "abbreviation": "EL"
     },
     {
-      "id": "frostheart",
       "name": "Frostheart",
       "days": 48,
       "abbreviation": "FH"
     },
     {
-      "id": "closingtide",
       "name": "Closingtide",
       "days": 48,
       "abbreviation": "CT"
@@ -63,36 +53,28 @@
   ],
   "weekdays": [
     {
-      "id": "firstday",
       "name": "First day",
       "abbreviation": "1st"
     },
     {
-      "id": "secondday",
       "name": "Second day",
       "abbreviation": "2nd"
     },
     {
-      "id": "thirdday",
       "name": "Third day",
       "abbreviation": "3rd"
     },
     {
-      "id": "forthday",
       "name": "Forth day",
       "abbreviation": "4th"
     },
     {
-      "id": "fifhtday",
       "name": "Fifth day",
       "abbreviation": "5th"
     },
     {
-      "id": "sixthday",
       "name": "Sixth day",
       "abbreviation": "6th"
     }
-  ],
-  "tags": ["fantasy", "homebrew"],
-  "preview": "39th of Everbloom, 544 of Modern Time era"
+  ]
 }
