@@ -15,74 +15,210 @@
     "currentYear": 544,
     "prefix": "",
     "suffix": " MT",
-    "startDay": 3
+    "startDay": 2
   },
   "months": [
     {
       "name": "Winterwane",
       "days": 48,
-      "abbreviation": "WW"
+      "abbreviation": "WW",
+      "description": "Spring is starting to come in for real in most of the world, and winter is finally giving in"
     },
     {
       "name": "Everbloom",
       "days": 48,
-      "abbreviation": "EB"
+      "abbreviation": "EB",
+      "description": "The storms and rainfalls are subsiding giving place to warmer weather. But sunny rains and cold nights are not unheard of"
     },
     {
       "name": "Sunfire",
       "days": 48,
-      "abbreviation": "SF"
+      "abbreviation": "SF",
+      "description": "Sun is out and warm days are now in season"
     },
     {
       "name": "Goldenharvest",
       "days": 48,
-      "abbreviation": "GH"
+      "abbreviation": "GH",
+      "description": "The harvest month were most crops around the world will be harvested and harvest feast will be abundant" 
     },
     {
       "name": "Emberleaf",
       "days": 48,
-      "abbreviation": "EL"
+      "abbreviation": "EL",
+      "description": "The trees and plants that shed their leaves each year are now in the most beautiful colo suit"
     },
     {
       "name": "Frostheart",
       "days": 48,
-      "abbreviation": "FH"
+      "abbreviation": "FH",
+      "description": "The weather drops down, by now snow is abundant in most of the world"
     },
     {
       "name": "Closingtide",
       "days": 48,
-      "abbreviation": "CT"
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
     }
   ],
   "weekdays": [
     {
       "name": "First day",
-      "abbreviation": "1st"
+      "abbreviation": "1st",
+      "description": "First day right after the smallest moon and the middle moons have synced up in full moons, the smallest moon is new"
     },
     {
       "name": "Second day",
-      "abbreviation": "2nd"
+      "abbreviation": "2nd",
+      "description": "The second day of the week where the middle moon is waning and the smallest moon is full"
     },
     {
       "name": "Third day",
-      "abbreviation": "3rd"
+      "abbreviation": "3rd",
+      "description": "Middle of the week when both the middle moon and small moon are new"
     },
     {
       "name": "Forth day",
-      "abbreviation": "4th"
+      "abbreviation": "4th",
+      "description": "The day when the smallest moon is full, and the middle moon is waxing"
     },
     {
       "name": "Fifth day",
-      "abbreviation": "5th"
+      "abbreviation": "5th",
+      "description": "Second to last day of the week, the smallest moon is new and the middle moon is almost full"
     },
     {
       "name": "Sixth day",
-      "abbreviation": "6th"
+      "abbreviation": "6th",
+      "description": "Last day of the week where both the small moon and the middle moon are both full"
     }
   ],
   "intercalary": [],
-  "moons": [],
-  "seasons": [],
+  "moons": [
+    {
+      "name": "Ithus",
+      "cycleLength": 2,
+      "firstNewMoon": { "year": 0, "month": 1, "day": 1 },
+      "phases": [
+        { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
+        { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" },
+      "color": "#ff0000",
+      "translations": {
+        "en": {
+          "description": "Ithun is the closest moon to Zothán and orbits with a period of 2 days. The moon is the smallest by both size and sight in the night sky. And is a red moon"
+        }
+      }
+    },
+    {
+      "name": "Arthún",
+      "cycleLength": 6,
+      "firstNewMoon": { "year": 0, "month": 1, "day": 3 },
+      "phases": [
+        { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
+        {
+          "name": "Waxing Crescent",
+          "length": 1,
+          "singleDay": true,
+          "icon": "waxing-crescent"
+        },
+        {
+          "name": "Waxing Gibbous",
+          "length": 1,
+          "singleDay": true,
+          "icon": "waxing-gibbous"
+        },
+        { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" },
+        {
+          "name": "Waning Gibbous",
+          "length": 1,
+          "singleDay": true,
+          "icon": "waning-gibbous"
+        },
+        {
+          "name": "Waning Crescent",
+          "length": 1,
+          "singleDay": true,
+          "icon": "waning-crescent"
+        },
+      "color": "#ffffff",
+      "translations": {
+        "en": {
+          "description": "Arthún is the middle moon orbiting Zothán with a period of 6 days. It is middle in both size and sight in the night sky. Shining bright white."
+        }
+      }
+    },
+    {
+      "name": "Mere",
+      "cycleLength": 48,
+      "firstNewMoon": { "year": 0, "month": 1, "day": 3 },
+      "phases": [
+        { "name": "New Moon", "length": 6, "singleDay": false, "icon": "new" },
+        {
+          "name": "Waxing Crescent",
+          "length": 6,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        { "name": "First Quarter", "length": 6, "singleDay": false, "icon": "first-quarter" },
+        {
+          "name": "Waxing Gibbous",
+          "length": 6,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        { "name": "Full Moon", "length": 6, "singleDay": false, "icon": "full" },
+        {
+          "name": "Waning Gibbous",
+          "length": 6,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        { "name": "Last Quarter", "length": 6, "singleDay": false, "icon": "last-quarter" },
+        {
+          "name": "Waning Crescent",
+          "length": 6,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        }
+      ],
+      "color": "#a0a0a0",
+      "translations": {
+        "en": {
+          "description": "Mere is the outermost moon of Zothán and orbits with a period of 48 days. Mere, even though being the furthest out, is still the largest of the three moons by both size and sight in the sky. It is however dimmer than Arthún and appears more grey than white in the night sky."
+        }
+      }
+    }
+  ],
+  "seasons": [
+    {
+      "name": "Winter",
+      "startMonth": 6,
+      "endMonth": 1,
+      "icon": "winter",
+      "description": "The cold season where snow and ice rule most of the lands"
+    },
+    {
+      "name": "Spring",
+      "startMonth": 2,
+      "endMonth": 3,
+      "icon": "spring",
+      "description": "Where snow and rain and storms give way to warmer weather"
+    },
+    {
+      "name": "Summer",
+      "startMonth": 4,
+      "endMonth": 5,
+      "icon": "summer",
+      "description": "The warm period of the year with a lot of sun and warm weather days, at the end the harvest is brought in"
+    },
+    {
+      "name": "Autumn",
+      "startMonth": 5,
+      "endMonth": 6,
+      "icon": "fall",
+      "description": "This is where the harvest is in, and the temperature starts to drop down and the storms and rains make themselves known again"
+    }
+  ],
   "time": {
     "hoursInDay": 24,
     "minutesInHour": 60,
