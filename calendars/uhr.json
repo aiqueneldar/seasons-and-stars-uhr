@@ -101,7 +101,8 @@
       "firstNewMoon": { "year": 0, "month": 1, "day": 1 },
       "phases": [
         { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
-        { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" },
+        { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" }
+      ],
       "color": "#ff0000",
       "translations": {
         "en": {
@@ -139,7 +140,8 @@
           "length": 1,
           "singleDay": true,
           "icon": "waning-crescent"
-        },
+        }
+      ],
       "color": "#ffffff",
       "translations": {
         "en": {
