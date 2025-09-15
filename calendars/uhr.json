@@ -59,6 +59,36 @@
       "days": 48,
       "abbreviation": "CT",
       "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
+    },
+    {
+      "name": "fake1",
+      "days": 48,
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
+    },
+    {
+      "name": "fake2",
+      "days": 48,
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
+    },
+    {
+      "name": "fake3",
+      "days": 48,
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
+    },
+    {
+      "name": "fake4",
+      "days": 48,
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
+    },
+    {
+      "name": "fake5",
+      "days": 48,
+      "abbreviation": "CT",
+      "description": "The last month of the year, and temperature will go down to the lowest points with ice cold days and even colder nights."
     }
   ],
   "weekdays": [
