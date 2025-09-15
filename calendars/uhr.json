@@ -1,5 +1,4 @@
 {
-  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/refs/heads/main/shared/schemas/calendar-v1.0.0.json",
   "id": "calendar-of-uhr",
   "translations": {
     "en": {
