@@ -121,6 +121,11 @@
       "name": "Sixth day",
       "abbreviation": "6th",
       "description": "Last day of the week where both the small moon and the middle moon are both full"
+    },
+    {
+      "name": "Fake day",
+      "abbreviation": "fth",
+      "description": "Fake day"
     }
   ],
   "intercalary": [],
