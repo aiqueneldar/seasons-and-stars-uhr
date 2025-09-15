@@ -10,7 +10,7 @@ A data module containing 1 fantasy calendar systems for use with Seasons & Stars
 ## Requirements
 
 - Foundry VTT v13+
-- Seasons & Stars core module v0.7.0+
+- Seasons & Stars core module v0.13.0+
 
 ## Installation
 
