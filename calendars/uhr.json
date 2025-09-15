@@ -98,7 +98,7 @@
     {
       "name": "Ithus",
       "cycleLength": 2,
-      "firstNewMoon": { "year": 0, "month": 1, "day": 1 },
+      "firstNewMoon": { "year": 1, "month": 1, "day": 1 },
       "phases": [
         { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
         { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" }
@@ -113,7 +113,7 @@
     {
       "name": "Arthún",
       "cycleLength": 6,
-      "firstNewMoon": { "year": 0, "month": 1, "day": 3 },
+      "firstNewMoon": { "year": 1, "month": 1, "day": 3 },
       "phases": [
         { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
         {
@@ -152,7 +152,7 @@
     {
       "name": "Mere",
       "cycleLength": 48,
-      "firstNewMoon": { "year": 0, "month": 1, "day": 3 },
+      "firstNewMoon": { "year": 1, "month": 1, "day": 3 },
       "phases": [
         { "name": "New Moon", "length": 6, "singleDay": false, "icon": "new" },
         {
